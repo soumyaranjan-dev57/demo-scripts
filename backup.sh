@@ -2,6 +2,7 @@
 
 <<info
 this shell script will take periodic backups
+can also be used in crom
 eg.
 ./backup.sh <source> <destination>
 src=/home/soumya/scripts
